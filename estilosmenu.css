@@ -1,0 +1,38 @@
+html{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: small;
+}
+
+
+.titulos, th{
+    color:#ff8000;
+}
+
+h2{
+    text-transform: uppercase;
+}
+
+table{
+    margin: auto;
+}
+
+th, td{
+    border: 1px solid black;
+}
+
+a{
+    color: #000000;
+}
+
+ul{
+    list-style: none;
+}
+
+#Comentario{
+    font-style: italic;
+}
+
+p, span{
+    color: #b36920;
+}
